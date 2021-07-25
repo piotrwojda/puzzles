@@ -1,7 +1,6 @@
 import unittest
 
 from puzzles.merge_overlapping_intervals import merge_intervals, Pair
-from puzzles.move_zeroes import move_zeros_to_left
 
 
 class MergeOverlappingIntervalsTest(unittest.TestCase):
